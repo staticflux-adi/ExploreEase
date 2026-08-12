@@ -6,13 +6,13 @@ ExploreEase is a modern travel and tourism website designed to make exploring de
 
 ## 🌟 Highlights
 
-- 🏝️ Stunning hero section
-- 🌍 Popular destinations showcase
-- 🎒 Curated tour packages
-- 📱 Fully responsive across all devices
-- 🎨 Clean and modern UI
-- ⚡ Fast loading and optimized performance
-- 💻 Beginner-friendly code structure
+-  Stunning hero section
+-  Popular destinations showcase
+-  Curated tour packages
+-  Fully responsive across all devices
+-  Clean and modern UI
+-  Fast loading and optimized performance
+-  Beginner-friendly code structure
 
 ---
 
