@@ -32,7 +32,7 @@ ExploreEase is a modern travel and tourism website designed to make exploring de
 ├── js
 ├── screenshot
 ├── README.md
-├── conact_us.php
+├── contact_us.php
 ├── index.html
 ```
 ---
