@@ -25,15 +25,16 @@ ExploreEase is a modern travel and tourism website designed to make exploring de
 - Font Awesome
 
 ---
-
-│ Project Structure
-├── Css
+| Project Structure |
+```text
+├── css
 ├── images
 ├── js
 ├── screenshot
 ├── README.md
-├── contact_us.php
+├── conact_us.php
 ├── index.html
+```
 ---
 ## 🎯 Future Roadmap
 
